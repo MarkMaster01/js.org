@@ -3493,6 +3493,7 @@ var cnames_active = {
   "ts-dax": "lukecarr.github.io/ts-dax",
   "ts-module-browser": "iam-medvedev.github.io/ts-module-browser",
   "ts-react-boilerplate": "lapanti.github.io/ts-react-boilerplate",
+  "ts2d": "markmaster01.github.io/ts2d",
   "ts2jsdoc": "spatools.github.io/ts2jsdoc", // noCF? (don´t add this in a new PR)
   "tsch": "type-challenges.netlify.app",
   "tsdi": "knisterpeter.github.io/tsdi",
